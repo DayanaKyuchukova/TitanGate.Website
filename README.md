@@ -16,3 +16,7 @@
 
 1. I think you should adding requirement for using IoC container
 2. As additional task which is not mandatory, you could add CI
+
+## Status TitanGate.Website API
+
+![.NET Core](https://github.com/DayanaKyuchukova/TitanGate.Website/workflows/.NET%20Core/badge.svg)
